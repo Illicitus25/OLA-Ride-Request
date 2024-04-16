@@ -9,21 +9,6 @@
 **OLA BIKE RIDE REQUEST DEMAND FORECAST** 
 
 
-
-|**Submitted by**  |||
-| - | :- | :- |
-|NAME |REG. NO. |ROLL NO. |
-|Karma Tashi |12204002 |RKM068A03 |
-|Shalini Tigga |12205663 |RKM068B28 |
-|Arpit Srivastav |12205735 |RKM068B29 |
-|Prakhyat Singh |12218463 |RKM068B44 |
-
-Under the guidance of 
-
-**DR DHANPRATAP SINGH (25706)** 
-
-School of Computer Science and Engineering Lovely Profession University, Jalandhar,     Punjab, India 
-
 **TABLE OF CONTENTS** 
 
 [**DECLARATION 	 1** ](#_page2_x87.00_y72.92)
